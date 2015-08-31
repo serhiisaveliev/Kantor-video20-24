@@ -1,0 +1,4 @@
+{"level":"info","message":"Got request GET /echo?message=TEST","timestamp":"2015-08-28T11:23:39.576Z"}
+{"level":"debug","message":"Echo: TEST","timestamp":"2015-08-28T11:23:39.582Z"}
+{"level":"info","message":"Got request GET /echo?message=TEST","timestamp":"2015-08-28T11:35:12.841Z"}
+{"level":"debug","message":"Echo: TEST","timestamp":"2015-08-28T11:35:12.846Z"}
